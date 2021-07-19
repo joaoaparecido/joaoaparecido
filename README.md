@@ -2,4 +2,4 @@
 
 Aprendendo a Codar, apaixonado... por??
 -JAVA
-segue lá ;) @joao.aparecido1
+segue lá ;) @joaopaulo.aparecido
